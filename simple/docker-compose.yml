@@ -1,0 +1,6 @@
+version: '3'
+services:
+  chrome:
+    image: "centminmod/docker-ubuntu-vnc-desktop"
+    ports: 
+      - "6080:80"
