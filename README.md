@@ -1,4 +1,4 @@
-# docker-chrome
+# docker-browser
 
 Задание:
 
