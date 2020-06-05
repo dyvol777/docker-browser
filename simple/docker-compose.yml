@@ -4,3 +4,4 @@ services:
     image: "centminmod/docker-ubuntu-vnc-desktop"
     ports: 
       - "6080:80"
+      - "5900:5900"
